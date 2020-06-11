@@ -1,4 +1,4 @@
-package com.atguigu;
+package com.gzy;
 
 
 import org.springframework.boot.SpringApplication;
